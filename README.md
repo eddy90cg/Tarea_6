@@ -15,9 +15,9 @@ La Tarea 6 se trata sobre las aplciacion y entendimiento del comportamiento de u
 
 * Reforzar los conocimientos establecidos en clase por medio de la resolución de ejercicios en dodne observaremos el comportamiento al cargar y desccargar un capcitor en un circuito.
 
-* ----------------------------------
+* Demostrar las distintas maneras de resolución de circuitos mediante la utilización correcta de las fórmulas dadas.
 
-* --------------------------------
+* Analizar cada uno de los temas dados, con el fin de poder realizar los ejercicios correspondientes, así como también, obtener un mayor y amplio conocimiento mediante la práctica y desarollo de estos.
 
 * ------------------------------
 
@@ -288,11 +288,10 @@ La Tarea 6 se trata sobre las aplciacion y entendimiento del comportamiento de u
  
  * Podemos concluir sobre la carga y descarga de un capacitor que es correpsondiente a cunado se abre o cierre el circuito y varia segun los componentes del circuitos y la capcidad del capacitor que siempre se encontra en la unidad de microfaradiso no faradios.
  
- * 
-  -------------------------------------
-  ------------------------------------
-  ---------------------------------
-  -----------------------------------
+ * Finalmente después de haber realizado un análisis profundo de cada tema tratado, se pudo obtener un mayor conocimiento y así entedner cuál es el funcionamiento del magnetismo y los circuitos magnéticos.
+ 
+ * Pudimos comprender que existen fórmulas las cuales nos ayudan en la resolución de problemas, así como también, se comprendió que importancia tiene el magnetismo dentro del análisis de circuitos y como este puede ser un factor del cual dependen muchos de los elementos que utilizamos.
+
   
  # 6. BIBLIOGRAFÍA
 
