@@ -37,7 +37,8 @@
 
   ## Magnetismo y circuitos magnéticos
 
-    ![]()
+    ![mentefacto12](https://user-images.githubusercontent.com/84453557/127272185-10b7ece2-90e5-4ec4-92a6-c61737f37a0b.png)
+
     
     
 # 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
