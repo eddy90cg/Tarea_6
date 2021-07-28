@@ -299,7 +299,9 @@ La Tarea 6 se trata sobre las aplciacion y entendimiento del comportamiento de u
   
  # 5. CONCLUSIONES
  
-  -------------------------------------
+ * Podemos concluir sobre la carga y descarga de un capacitor que es correpsondiente a cunado se abre o cierre el circuito y varia segun los componentes del circuitos y la capcidad del capacitor que siempre se encontra en la unidad de microfaradiso no faradios.
+ 
+ * 
   -------------------------------------
   ------------------------------------
   ---------------------------------
