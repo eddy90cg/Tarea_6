@@ -19,7 +19,7 @@ La Tarea 6 se trata sobre las aplciacion y entendimiento del comportamiento de u
 
 * Analizar cada uno de los temas dados, con el fin de poder realizar los ejercicios correspondientes, así como también, obtener un mayor y amplio conocimiento mediante la práctica y desarollo de estos.
 
-* ------------------------------
+* Aprender y aplicar las fórmulas presentadas para poder aplicarlas en la resolución de circuitos de una manera práctica y sencilla.
 
 # 2. MARCO TEÓRICO
 
@@ -428,6 +428,8 @@ c. ¿Cuál es el VRP?
  * Finalmente después de haber realizado un análisis profundo de cada tema tratado, se pudo obtener un mayor conocimiento y así entedner cuál es el funcionamiento del magnetismo y los circuitos magnéticos.
  
  * Pudimos comprender que existen fórmulas las cuales nos ayudan en la resolución de problemas, así como también, se comprendió cual es la importancia que tiene el magnetismo dentro del análisis de circuitos y como este puede ser un factor del cual dependen muchos de los elementos que utilizamos.
+
+* Se aprendieron las fórmulas mostradas en los capítulos presentados y se aplicaron satisfactoriamente en la resolución de los mismos ejercicios 
 
   
  # 6. BIBLIOGRAFÍA
