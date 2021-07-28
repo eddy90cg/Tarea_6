@@ -191,7 +191,7 @@ La Tarea 6 se trata sobre las aplciacion y entendimiento del comportamiento de u
   
    * CAP 12: Magnetismo y circuitos magnéticos
    
-    ** 12 - 3 : Flujo magnético y densidad de flujo
+    12 - 3 : Flujo magnético y densidad de flujo
       
    1. Vea la figura 12-41: 
       
@@ -201,19 +201,19 @@ La Tarea 6 se trata sobre las aplciacion y entendimiento del comportamiento de u
      
   ![](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/3.png)
          
-    ** 12 - 5 : Espacios de aire, desbordamiento y núcleos laminados
+    12 - 5 : Espacios de aire, desbordamiento y núcleos laminados
       
    5. Si la sección del núcleo en la figura 12-43 que mide 0.025 m por 0.04 m, tiene un factor de apilamiento de 0.85 y B=1.45 T, ¿qué valor tiene Ф en webers?
       
    ![](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/5.png)
      
-    ** 12 - 6 : Elementos en serie y en paralelo
+    12 - 6 : Elementos en serie y en paralelo
       
    7. Para la sección del núcleo de hierro de la figura 12-45, si Ф_1=12 mWb y Ф_3=2 mWb, ¿cuánto vale B_2?
       
    ![](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/7.png)
         
-    ** 12 - 8 :  Intensidad de campo magnético y curvas de magnetización
+    12 - 8 :  Intensidad de campo magnético y curvas de magnetización
       
    9. Un núcleo con dimensiones de 2 cm×3 cm tiene una intensidad magnética de 1200 Av/m. ¿Qué valor tiene Ф si el núcleo es de hierro fundido? ¿Si es de acero fundido? ¿Si es de hoja de acero con FA=0.94?
       
