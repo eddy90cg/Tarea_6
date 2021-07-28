@@ -191,56 +191,37 @@ La Tarea 6 se trata sobre las aplciacion y entendimiento del comportamiento de u
   
    * CAP 12: Magnetismo y circuitos magnéticos
    
-      ** 12 - 1 : La naturaleza de un campo magnético
+   ** 12 - 3 : Flujo magnético y densidad de flujo
       
-      1.-
+   1. Vea la figura 12-41: 
       
-      ------------------------------
-      ------------------------------
-      ------------------------------
-      ------------------------------
-      -------------------------------
+   ![](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/1.png)
       
-       ** 12 - 2 : Electromagnetismo
-      
-      
-      ------------------------------
-      ------------------------------
-      ------------------------------
-      ------------------------------
-      ------------------------------- 
-      
-        ** 12 - 3 : Flujo magnético y densidad de flujo
-      
-      1. Vea la figura 12-41: 
-      
-      ![](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/1.png)
-      
-      3. El toroide de la figura 12-42 tiene una sección transversal circular y Ф=628 µWb. Si r_1=8 cm y r_2=12 cm, ¿cuál es la densidad de flujo en teslas?
+   3. El toroide de la figura 12-42 tiene una sección transversal circular y Ф=628 µWb. Si r_1=8 cm y r_2=12 cm, ¿cuál es la densidad de flujo en teslas?
      
-     ![](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/3.png)
+  ![](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/3.png)
          
-       ** 12 - 5 : Espacios de aire, desbordamiento y núcleos laminados
+   ** 12 - 5 : Espacios de aire, desbordamiento y núcleos laminados
       
-      5. Si la sección del núcleo en la figura 12-43 que mide 0.025 m por 0.04 m, tiene un factor de apilamiento de 0.85 y B=1.45 T, ¿qué valor tiene Ф en webers?
+   5. Si la sección del núcleo en la figura 12-43 que mide 0.025 m por 0.04 m, tiene un factor de apilamiento de 0.85 y B=1.45 T, ¿qué valor tiene Ф en webers?
       
-      ![](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/5.png)
+   ![](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/5.png)
      
-       ** 12 - 6 : Elementos en serie y en paralelo
+   ** 12 - 6 : Elementos en serie y en paralelo
       
-      7. Para la sección del núcleo de hierro de la figura 12-45, si Ф_1=12 mWb y Ф_3=2 mWb, ¿cuánto vale B_2?
+   7. Para la sección del núcleo de hierro de la figura 12-45, si Ф_1=12 mWb y Ф_3=2 mWb, ¿cuánto vale B_2?
       
-      ![](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/7.png)
+   ![](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/7.png)
         
-      ** 12 - 8 :  Intensidad de campo magnético y curvas de magnetización
+   ** 12 - 8 :  Intensidad de campo magnético y curvas de magnetización
       
-      9. Un núcleo con dimensiones de 2 cm×3 cm tiene una intensidad magnética de 1200 Av/m. ¿Qué valor tiene Ф si el núcleo es de hierro fundido? ¿Si es de acero fundido? ¿Si es de hoja de acero con FA=0.94?
+   9. Un núcleo con dimensiones de 2 cm×3 cm tiene una intensidad magnética de 1200 Av/m. ¿Qué valor tiene Ф si el núcleo es de hierro fundido? ¿Si es de acero fundido? ¿Si es de hoja de acero con FA=0.94?
       
-      ![](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/9.png)
+   ![](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/9.png)
       
-      11. 	Considere una vez más la figura 12-42. Si I=10 A,N=40 vueltas, r_1=5 cm y  r_2=7 cm, ¿qué valor tiene H en amperes-vuelta por metro?
+   11. 	Considere una vez más la figura 12-42. Si I=10 A,N=40 vueltas, r_1=5 cm y  r_2=7 cm, ¿qué valor tiene H en amperes-vuelta por metro?
       
-      ![](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/11.png)
+   ![](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/11.png)
       
       ** 12 - 9 Ley de circuitos de Ampère
       
