@@ -360,9 +360,9 @@ c. ¿Cuál es el VRP?
       
    ![](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/11.png)
       
-      ** 12 - 9 Ley de circuitos de Ampère
+  ** 12 - 9 Ley de circuitos de Ampère
       
-      12. Sean H1 y l1 la fuerza magnetizante y la longitud de la trayectoria, respectivamente, donde el flujo ϕ1 existe en la figura 12-47 y de forma similar para ϕ2 y ϕ3. Escriba la ley de Ampère alrededor de cada una de las ventanas.
+  12. Sean H1 y l1 la fuerza magnetizante y la longitud de la trayectoria, respectivamente, donde el flujo ϕ1 existe en la figura 12-47 y de forma similar para ϕ2 y ϕ3. Escriba la ley de Ampère alrededor de cada una de las ventanas.
       
       ![12 12](https://user-images.githubusercontent.com/84453557/127268535-9e92e643-a1e5-43d5-9658-0673227da9ec.png)
 
@@ -381,25 +381,25 @@ c. ¿Cuál es el VRP?
       
       18. Se cortan dos espacios, cada uno de 1 mm, en el circuito de la figura 12-48, uno en la porción de acero fundido y el otro en la porción de hierro fundido. Determine la corriente para 0.128 mWb. No tome en cuenta el desbordamiento.
       
-     ![12 18](https://user-images.githubusercontent.com/84453557/127268567-979d2858-9cd5-47de-8105-8eb961f68e39.png)
+  ![12 18](https://user-images.githubusercontent.com/84453557/127268567-979d2858-9cd5-47de-8105-8eb961f68e39.png)
  
       
-      20. Para el circuito de la figura 12-50, ϕ=141 uWb y N=400 vueltas. El miembro inferior es una hoja de acero con un factor de apilamiento de 0.94, mientras que el resto es de acero fundido. Todas las piezas miden 1 cm x 1 cm. La longitud de la trayectoria del acero fundido es de 16 cm. Encuentre la corriente I.
+   20. Para el circuito de la figura 12-50, ϕ=141 uWb y N=400 vueltas. El miembro inferior es una hoja de acero con un factor de apilamiento de 0.94, mientras que el resto es de acero fundido. Todas las piezas miden 1 cm x 1 cm. La longitud de la trayectoria del acero fundido es de 16 cm. Encuentre la corriente I.
       
-      ![12 20](https://user-images.githubusercontent.com/84453557/127268578-06e47064-11f5-4e4a-8cf3-481a8e025c84.png)
+  ![12 20](https://user-images.githubusercontent.com/84453557/127268578-06e47064-11f5-4e4a-8cf3-481a8e025c84.png)
 
       
       
-      ** 12 - 11 Circuitos magnéticos en serie-paralelo
+  ** 12 - 11 Circuitos magnéticos en serie-paralelo
       
-      24. Para la figura 12-53, si ϕg=80xuWb, encuentre I.
+   24. Para la figura 12-53, si ϕg=80xuWb, encuentre I.
       
-      ![12 24](https://user-images.githubusercontent.com/84453557/127268584-0157d56e-62ac-450c-86ff-f291af627fd2.png)
+  ![12 24](https://user-images.githubusercontent.com/84453557/127268584-0157d56e-62ac-450c-86ff-f291af627fd2.png)
 
       
-      ** 12 - 12 Circuitos magnéticos en serie: a partir de NI encontrar ϕ
+  ** 12 - 12 Circuitos magnéticos en serie: a partir de NI encontrar ϕ
       
-      26. Un circuito magnético de acero fundido con N=2500 vueltas, I=200 mA y un área de sección transversal de 0.02 m2 tiene un espacio de aire de 0.00254 m. Si se supone que 90% de la fmm aparece en el espacio, estime el flujo en el núcleo.
+  26. Un circuito magnético de acero fundido con N=2500 vueltas, I=200 mA y un área de sección transversal de 0.02 m2 tiene un espacio de aire de 0.00254 m. Si se supone que 90% de la fmm aparece en el espacio, estime el flujo en el núcleo.
       
       ![12 26](https://user-images.githubusercontent.com/84453557/127268590-f87ac86d-5fca-4809-8d83-751c8973b6c7.png)
 
