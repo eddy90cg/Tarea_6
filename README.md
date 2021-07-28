@@ -27,13 +27,13 @@ La Tarea 6 se trata sobre las aplciacion y entendimiento del comportamiento de u
 
   ## Carga, descarga del capacitor y circuitos formadores de onda simples
 
-    ![mentefacto cap 11](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/mentefacto%20cap%2011.jpg)
+   ![mentefacto cap 11](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/mentefacto%20cap%2011.jpg)
     
 # III. Capacitancia e inductancia.-
 
   ## Magnetismo y circuitos magnéticos
 
-    ![mentefacto12](https://user-images.githubusercontent.com/84453557/127272268-2dcc93b9-f94a-4e0f-bab7-cbe3a92eef46.png)
+   ![mentefacto12](https://user-images.githubusercontent.com/84453557/127272268-2dcc93b9-f94a-4e0f-bab7-cbe3a92eef46.png)
     
     
 # 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
@@ -46,44 +46,44 @@ La Tarea 6 se trata sobre las aplciacion y entendimiento del comportamiento de u
       
       1.- 1. El capacitor de la figura 11-50 está descargado.
       
-         a. ¿Cuál es el voltaje y la corriente del capacitor justo después de que se cierra el interruptor?
-         b. ¿Cuál es el voltaje y la corriente del capacitor después de que está totalmente cargado?
+        a. ¿Cuál es el voltaje y la corriente del capacitor justo después de que se cierra el interruptor?
+        b. ¿Cuál es el voltaje y la corriente del capacitor después de que está totalmente cargado?
          
-         ![fig 11-50](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/fig/fig%2011%20-%2050.jpg)
+        ![fig 11-50](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/fig/fig%2011%20-%2050.jpg)
          
-         Resolucion 11 - 1 :
+        Resolucion 11 - 1 :
          
-         a. Al cerrarse el interruptor el voltaje es **0 V** y la corriente está dada por: E/R = (20 V)/(4 Ω) = **5 A**\
+        a. Al cerrarse el interruptor el voltaje es **0 V** y la corriente está dada por: E/R = (20 V)/(4 Ω) = **5 A**\
          
-         b. Al estar totalmente cargado el voltaje salta a **20 V** y la corriente pasa de un valor negativo de: -E/R = -(20 V)/(4 Ω) = **-5 A**, hasta que cae a **0 A**.
+        b. Al estar totalmente cargado el voltaje salta a **20 V** y la corriente pasa de un valor negativo de: -E/R = -(20 V)/(4 Ω) = **-5 A**, hasta que cae a **0 A**.
          
        3.- Resolver los siguientes literales.
          
-         a. ¿A qué se parece un capacitor descargado en el instante que se conecta el interruptor? 
+        a. ¿A qué se parece un capacitor descargado en el instante que se conecta el interruptor? 
          
-         b. ¿Cómo se ve un capacitor cargado en el instante que se acciona el interruptor?
+        b. ¿Cómo se ve un capacitor cargado en el instante que se acciona el interruptor?
          
-         c. ¿A qué se parece un capacitor en estado estable de cd?
+        c. ¿A qué se parece un capacitor en estado estable de cd?
+        
+        d. ¿Qué se quiere decir con i(0) y con i(0)?
          
-         d. ¿Qué se quiere decir con i(0) y con i(0)?
-         
-          Resolucion 11 - 3 :
+        Resolucion 11 - 3 :
           
-          a. Cortocircuito.
+        a. Cortocircuito.
 
-          b. Fuente de voltaje.
+        b. Fuente de voltaje.
 
-          c. Circuito Abierto.
+        c. Circuito Abierto.
 
-          d. i(0-) significa corriente justo antes de t = 0 s. i(0+) significa corriente justo después de t = 0 s.
+        d. i(0-) significa corriente justo antes de t = 0 s. i(0+) significa corriente justo después de t = 0 s.
           
       5.- Para un circuito de carga, R  5.6 k y vC(0)  0 V. Si i(0)  2.7 mA,
        
        ¿cuál es el valor de E?
        
-         Resolucion 11 - 5 :
+        Resolucion 11 - 5 :
          
-         ![res 1 - 5 ](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/res%2011%20-%205.jpg)
+        ![res 1 - 5 ](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/res%2011%20-%205.jpg)
        
        
        
@@ -91,63 +91,63 @@ La Tarea 6 se trata sobre las aplciacion y entendimiento del comportamiento de u
         
       7.- Repita el problema 6 si R  500 , C  25 F y E  45 V, pero ahora calcule y grafique valores en t  0 s, 20, 40, 60, 80 y 100 ms. problema 6. El interruptor de la           figura 11-50 está cerrado en t  0 s. El capacitor está inicialmente descargado.
       
-         ![fig 11-50](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/fig/fig%2011%20-%2050.jpg)
+        ![fig 11-50](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/fig/fig%2011%20-%2050.jpg)
         
-         Resolucion 11 - 7 :
+        Resolucion 11 - 7 :
          
-         ![res 1 - 7 ](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/res%2011%20-%207.jpg)
+        ![res 1 - 7 ](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/res%2011%20-%207.jpg)
          
        9.- Repita el problema 8 para el circuito de la figura 11-52. problema 8 . El interruptor de la figura 11-51 está cerrado en t  0 s. Determine las ecuaciones para la            corriente y el voltaje del capacitor.  
          
-         ![fig 11-52](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/fig/fig%2011%20-%2052.jpg)
+        ![fig 11-52](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/fig/fig%2011%20-%2052.jpg)
          
-          Resolucion 11 - 9 :
+        Resolucion 11 - 9 :
          
-         ![res 1 - 9 ](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/res%2011%20-%209.jpg)
+        ![res 1 - 9 ](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/res%2011%20-%209.jpg)
          
        11.- Determine la constante de tiempo para el circuito de la figura 11-50. ¿Cuánto tiempo (en segundos) tardará el capacitor en cargarse?
 
-         ![fig 11-50](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/fig/fig%2011%20-%2050.jpg)
+        ![fig 11-50](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/fig/fig%2011%20-%2050.jpg)
          
-         Resolucion 11 - 11 :
+        Resolucion 11 - 11 :
          
-         ![res 1 - 11](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/res%2011%20-%2011.jpg)
+        ![res 1 - 11](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/res%2011%20-%2011.jpg)
          
        13.-  Para la figura 11-50, el voltaje del capacitor con el interruptor abierto es de 0 V. Cierre el interruptor en t  0 y determine el voltaje y corriente del capacitor
        en t  0, 40, 80, 120, 160 y 200 s, use las curvas de la constante de tiempo universal.
        
-          ![fig 11-50](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/fig/fig%2011%20-%2050.jpg)
+        ![fig 11-50](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/fig/fig%2011%20-%2050.jpg)
        
-         Resolucion 11 - 13 :
+       Resolucion 11 - 13 :
          
-         ![res 1 - 13](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/res%2011%20-%2013.jpg)
+       ![res 1 - 13](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/res%2011%20-%2013.jpg)
          
        15.- Para la figura 11-2, la corriente se eleva a 3 mA cuando el interruptor se cierra. El capacitor tarda 1 s para cargarse. Si E  75 V, determine R y C. 
        
-         ![fig 11- 2](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/fig/fig%2011%20-%202.jpg)
+        ![fig 11- 2](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/fig/fig%2011%20-%202.jpg)
        
-         Resolucion 11 - 15 :
+        Resolucion 11 - 15 :
          
-         ![res 1 - 15](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/res%2011%20-%2015.jpg)
+        ![res 1 - 15](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/res%2011%20-%2015.jpg)
          
        17.- Para la figura 11-2, determine E, R y C si el capacitor tarda 5 ms en cargarse, la corriente en 1 constante de tiempo después de que el interruptor se cierra es de        3.679 mA, y el capacitor se carga a 45 volts en estado estable.
 
-         ![fig 11- 2](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/fig/fig%2011%20-%202.jpg)
+        ![fig 11- 2](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/fig/fig%2011%20-%202.jpg)
        
-         Resolucion 11 - 17 :
+        Resolucion 11 - 17 :
          
-         ![res 1 - 17](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/res%2011%20-%2017.jpg)
+        ![res 1 - 17](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/res%2011%20-%2017.jpg)
        
 
         ** 11-3: Capacitor con un voltaje inicial
         
         19.- El capacitor de la figura 11-50 tiene un voltaje inicial. Si V0  10 V, ¿cuál es la corriente justo después de que el interruptor se ha cerrado?
 
-         ![fig 11-50](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/fig/fig%2011%20-%2050.jpg)
+        ![fig 11-50](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/fig/fig%2011%20-%2050.jpg)
              
-         Resolucion 11 - 19 :
+        Resolucion 11 - 19 :
          
-         ![res 1 - 19](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/res%2011%20-%2019.jpg)
+        ![res 1 - 19](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/res%2011%20-%2019.jpg)
          
         21.- Para el capacitor de la figura 11-51, V0  30 V.
         
@@ -157,11 +157,11 @@ La Tarea 6 se trata sobre las aplciacion y entendimiento del comportamiento de u
         
         c. Grafique vC e iC.
         
-          ![fig 11-51](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/fig/fig%2011%20-%2051.jpg)
+        ![fig 11-51](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/fig/fig%2011%20-%2051.jpg)
         
-          Resolucion 11 - 21 :
+        Resolucion 11 - 21 :
          
-          ![res 1 - 21](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/res%2011%20-%2021.jpg)
+        ![res 1 - 21](https://github.com/eddy90cg/Tarea_6/blob/main/Anexos%20img/ejer%201%20-%2021/res%2011%20-%2021.jpg)
         
        
           
