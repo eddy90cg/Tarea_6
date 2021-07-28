@@ -419,7 +419,7 @@ c. ¿Cuál es el VRP?
       
  # 4. VIDEO
 
-  * link del video
+  * https://youtu.be/UClpsSzQXcA
   
  # 5. CONCLUSIONES
  
@@ -439,9 +439,6 @@ c. ¿Cuál es el VRP?
 
 * Recuperado de: https://www.academia.edu/20334884/Analisis_de_circuitos_Teoria_y_practica
 
-* -------------------------------------------------
-
-* --------------------------------------------------
 
 
 RUBRICA
